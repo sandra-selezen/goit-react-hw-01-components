@@ -9,7 +9,7 @@ export const Profile = ({ user: { username, tag, location, avatar, stats: { foll
         className="avatar"
       />
       <p className="name">{username}</p>
-      <p className="tag">{tag}</p>
+      <p className="tag">&#64;{tag}</p>
       <p className="location">{location}</p>
     </div>
 
