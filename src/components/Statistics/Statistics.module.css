@@ -23,7 +23,7 @@
 .item {
   display: flex;
   flex-direction: column;
-  flex-basis: calc((100% - 10px) / 4);
+  flex-basis: calc((100% - 10px) / 5);
 }
 
 .label {
