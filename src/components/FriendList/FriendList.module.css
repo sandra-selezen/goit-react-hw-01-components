@@ -29,9 +29,11 @@
 }
 
 .avatar {
-
+  display: block;
+  border-radius: 50%;
+  background-color: #a2a8d3;
 }
 
 .name {
-
+  font-weight: bold;
 }
