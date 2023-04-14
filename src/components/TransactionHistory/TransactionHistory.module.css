@@ -10,10 +10,12 @@
 .tableHead {
   padding: 10px;
   color: #fcfefe;
+  border-radius: 10px;
   background-color: #38598b;
 }
 
 .tableRow {
   padding: 10px;
+  border-radius: 10px;
   background-color: #fcfefe;
 }
